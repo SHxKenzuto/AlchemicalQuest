@@ -1,3 +1,4 @@
+## AlchemicalQuest
 AlchemicalQuest is a fork of EquivalencyTech.
 
 [EquivalencyTech (EquiTech)](https://github.com/Sefiraat/EquivalencyTech) was an attempt to recreate elements of the [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) mod.
@@ -20,15 +21,6 @@ The plugin currently features:
   * Shift + Click a Condensate chest with an item to assign it's production type. Assuming the player has enough EMC and the item can be synthesized, the items will begin production.
 * Slimefun
   * If Slimefun is installed, this plugin's recipes will be added to the Slimefun Guide. **This plugin does not require Slimefun to run**
-
-## Planned Features
-* Automation Upgrades
-  * Upgrades to MK2 - MK3 chests for faster throughput
-* Slimefun
-  * As at this first release, only vanilla items + EquiTech items can be condensed / synthesized. A Future update will allow for Slimefun core items to also be added.
-* DankTech
-  * The addition of a new type of pack to DankTech that converts voided items into EMC with a % loss
-  * The addition of a new type of pack that builds from assigned slots using EMC.
 
 ## Pages
 * **_READ THIS ONE FIRST ->_** [Balancing](https://github.com/Sefiraat/EquivalencyTech/wiki/Balancing) **_<-READ THIS ONE FIRST_**
