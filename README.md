@@ -1,5 +1,6 @@
 AlchemicalQuest is a fork of EquivalencyTech.
-EquivalencyTech (EquiTech) was an attempt to recreate elements of the [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) mod.
+
+[EquivalencyTech (EquiTech)])(https://github.com/Sefiraat/EquivalencyTech) was an attempt to recreate elements of the [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) mod.
 
 ## Features
 The plugin currently features:
