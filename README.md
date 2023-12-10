@@ -1,11 +1,5 @@
-<img src="https://github.com/Sefiraat/EquivalencyTech/blob/master/images/wiki/logo_large.png">
-
-
-EquivalencyTech (EquiTech) is an attempt to recreate elements of the [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) mod.
-
-## Download EquivalencyTech
-
-[![Build Status](https://thebusybiscuit.github.io/builds/Sefiraat/EquivalencyTech/master/badge.svg)](https://thebusybiscuit.github.io/builds/Sefiraat/EquivalencyTech/master)
+AlchemicalQuest is a fork of EquivalencyTech.
+EquivalencyTech (EquiTech) was an attempt to recreate elements of the [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) mod.
 
 ## Features
 The plugin currently features:
@@ -43,10 +37,3 @@ The plugin currently features:
 * [Condensate Chest](https://github.com/Sefiraat/EquivalencyTech/wiki/Condensate-Chest)
 * [Crafting](https://github.com/Sefiraat/EquivalencyTech/wiki/Crafting)
 * [Commands](https://github.com/Sefiraat/EquivalencyTech/wiki/Commands)
-
-
-## Thanks!
-
-A big thanks to the owners of **mct.tantrum.org** who have tested nearly everything I have made and really given me direction and drive to make these things.
-
-Another big shoutout to **GentlemanCheesy** of **mc.talosmp.net** for being my first (and as of writing this, only!) sponsor. A few coffee's a month to make me feel better about making these addons <3
